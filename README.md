@@ -21,7 +21,7 @@
 
 ## 🎬 Video
 
-Poniżej znajduje się film prezentujący działanie aplikacji FlashMinds wraz z omówieniem wszystkich funkcjonalności:
+Poniżej znajduje się film prezentujący działanie aplikacji FlashMinds:
 
 https://github.com/user-attachments/assets/010ccde6-3a0c-458b-8b39-7304ecab924e
 
@@ -99,8 +99,8 @@ FlashMinds/
 
 ## 📋 Wymagania
 
-- **PHP** 8.0 lub nowszy
-- **MySQL** 5.7+ / **MariaDB** 10.3+
+- PHP 8.0 lub nowszy
+- MySQL 5.7+ / MariaDB 10.3+
 - Serwer HTTP (Apache, Nginx lub wbudowany serwer PHP)
 - Rozszerzenie PHP `pdo_mysql`
 
@@ -174,7 +174,3 @@ Aplikacja stosuje następujące środki bezpieczeństwa:
 - **Tryb wyjątków PDO** - błędy bazy danych są obsługiwane przez wyjątki
 
 ---
-
-<div align="center">
-  <sub>⚡FlashMinds</sub>
-</div>
